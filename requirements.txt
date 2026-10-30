@@ -1,0 +1,7 @@
+scikit-learn>=1.2.0
+nltk>=3.8.0
+pandas>=2.0.0
+pypdf>=3.9.0
+python-docx>=0.8.11
+python-pptx>=1.0.0
+streamlit>=1.30.0
